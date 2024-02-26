@@ -1,0 +1,4 @@
+public class ISOGames {
+    public static void main(String[] args) {
+        System.out.println("Welcome to the ISO Games!");
+        // Add your ISO game scripts here
